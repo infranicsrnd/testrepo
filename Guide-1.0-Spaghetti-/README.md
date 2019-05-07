@@ -53,7 +53,7 @@
 ## 활용 가이드
 - [BOSH CLI(Command Line Interface) 사용](./Use-Guide/OpenPaaS_PaaSTA_BOSH_CLI_guide.md)
 - [CF CLI(Command Line Interface) 사용](Use-Guide/OpenPaas%20CLi%20가이드.md)
-- [Eclipse plugin 개발도구 사용] (./Use-Guide/Open%20PaaS%20개발환경%20사용%20가이드.md)
+- [Eclipse plugin 개발도구 사용](./Use-Guide/Open%20PaaS%20개발환경%20사용%20가이드.md)
 
 
 ## 개발 언어 별 어플리케이션 가이드
